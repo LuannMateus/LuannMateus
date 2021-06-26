@@ -69,7 +69,7 @@
 </div>
 <div align='center'>
   
-Flutter ✔️ 
+✔️ Flutter  
   
 </div>
 
