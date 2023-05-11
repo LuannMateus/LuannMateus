@@ -1,4 +1,7 @@
  <div align="left">
+
+ ![](https://komarev.com/ghpvc/?username=LuannMateus)
+
  <h2 align="left">Hello world!!! Me chamo Luan Mateus 🚀</h2>
   
  <i align="center">Sou aficionado pela programação, sempre em busca de aprender um pouco mais!</i> 
@@ -10,7 +13,7 @@
   </a>
 
   <a href="https://github.com/LuannMateus">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannMateus&layout=compact&langs_count=10&theme=dracula" alt="Luan Mateus Github Stats"/>
+<!--   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannMateus&layout=compact&langs_count=10&theme=dracula" alt="Luan Mateus Github Stats"/> -->
   </a>
 </div>
   
