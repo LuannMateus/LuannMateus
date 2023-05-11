@@ -1,6 +1,6 @@
  <div align="left">
 
- ![](https://komarev.com/ghpvc/?username=LuannMateus)
+ ![](https://komarev.com/ghpvc/?username=LuannMateus&color=blueviolet&label=PROFILE+VIEWS&style=flat-square)
 
  <h2 align="left">Hello world!!! Me chamo Luan Mateus 🚀</h2>
   
