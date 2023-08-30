@@ -7,15 +7,15 @@
  <i align="center">Sou aficionado pela programação, sempre em busca de aprender um pouco mais!</i> 
  </div>
  
-<div align="center">
-  <a href="https://github.com/LuannMateus">
- <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LuannMateus&show_icons=true&theme=dracula&line_height=27&text_color=664FB5&icon_color=ffffff" alt="Luan Mateus Github Stats"/>
-  </a>
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/LuannMateus"> -->
+<!--  <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LuannMateus&show_icons=true&theme=dracula&line_height=27&text_color=664FB5&icon_color=ffffff" alt="Luan Mateus Github Stats"/> -->
+<!--   </a> -->
 
-  <a href="https://github.com/LuannMateus">
+ <!-- <a href="https://github.com/LuannMateus"> -->
 <!--   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannMateus&layout=compact&langs_count=10&theme=dracula" alt="Luan Mateus Github Stats"/> -->
-  </a>
-</div>
+<!--   </a>
+</div> -->
   
 <div style="display: inline_block">
 <br>
