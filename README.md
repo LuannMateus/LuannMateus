@@ -1,22 +1,12 @@
- <div align="left">
+<div align="left">
 
- ![](https://komarev.com/ghpvc/?username=LuannMateus&color=blueviolet&label=PROFILE+VIEWS&style=flat-square)
+![](https://komarev.com/ghpvc/?username=LuannMateus&color=blueviolet&label=PROFILE+VIEWS&style=flat-square)
 
- <h2 align="left">Hello world!!! Me chamo Luan Mateus 🚀</h2>
-  
- <i align="center">Sou aficionado pela programação, sempre em busca de aprender um pouco mais!</i> 
- </div>
+<h2 align="left">Hello world!!! My name is Luan Mateus 🚀</h2>
+<i align="center">I'm a programming enthusiast, always looking to learn a little more!</i> 
+</div>
  
-<!-- <div align="center"> -->
-<!--   <a href="https://github.com/LuannMateus"> -->
-<!--  <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LuannMateus&show_icons=true&theme=dracula&line_height=27&text_color=664FB5&icon_color=ffffff" alt="Luan Mateus Github Stats"/> -->
-<!--   </a> -->
-
- <!-- <a href="https://github.com/LuannMateus"> -->
-<!--   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannMateus&layout=compact&langs_count=10&theme=dracula" alt="Luan Mateus Github Stats"/> -->
-<!--   </a>
-</div> -->
-  
+<h2 align="left">Tools & Technologies</h2>
 <div style="display: inline_block">
 <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,34 +24,15 @@
   <img align="center" alt="Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Jest" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="right" alt="Never Stop Learning Pic" height="150" width="160" style="border-radius:50px;" src="https://media.istockphoto.com/vectors/never-stop-learning-neon-sign-on-a-dark-background-vector-id1192842098?k=20&m=1192842098&s=612x612&w=0&h=JoELF6wU4STG-mgXFyIfHMbUhkboF5Zh_NyBdUB5QgA=">
-
- <br>
+<br>
 </div>
 
-##
+<h2 align="left">Contacts</h2>
 
 <div> 
-  <a href="https://www.linkedin.com/in/luan-mateus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/luannmateus/luannmateus/blob/output/github-contribution-grid-snake.svg)
+    <a href = "mailto:luanmateusdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/luan-mateus/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-
-
-
-
-<!--
-**LuannMateus/LuannMateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+![Snake animation](https://github.com/luannmateus/luannmateus/blob/output/github-contribution-grid-snake.svg)
+</div>
