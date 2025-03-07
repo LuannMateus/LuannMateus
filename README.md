@@ -1,37 +1,58 @@
-<div align="left">
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-![](https://komarev.com/ghpvc/?username=LuannMateus&color=blueviolet&label=PROFILE+VIEWS&style=flat-square)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Luan+Mateus;I'm+a+Software+Engineer;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<h2 align="left">Hello world!!! My name is Luan Mateus 🚀</h2>
-<i align="center">I'm a programming enthusiast, always looking to learn a little more!</i> 
-</div>
-<div style="display: inline_block">
-<h2 align="left">Tools & Technologies</h2>
-<br>
-  <img align="center" alt="SAP" height="40" width="80" src="https://github.com/LuannMateus/LuannMateus/assets/59940855/984fbaba-2687-47cc-b0bc-16b448ef9d4e">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Jest" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Octocat pic" height="150" width="160" style="border-radius:50px;" src="https://github.com/LuannMateus/LuannMateus/assets/59940855/c6f880d5-a770-4dfa-ae29-64bb06ff3a17"> 
-<br>
-</div>
-<h2 align="left">Contacts</h2>
-<div> 
-    <a href = "mailto:luanmateusdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/luan-mateus/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuannMateus&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="Luan Mateus github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannMateus&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
-![Snake animation](https://github.com/luannmateus/luannmateus/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>Main Skills</h2>
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=000000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&labelColor=000000" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&labelColor=000000" alt="React">
+  <img src="https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&labelColor=000000" alt="Angular">
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&labelColor=000000" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&labelColor=000000" alt="Java">
+  <img src="https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring&labelColor=000000" alt="Spring">
+  <img src="https://img.shields.io/badge/-SAP%20CAP-000000?style=for-the-badge&logo=sap&labelColor=000000" alt="SAP CAP">
+  <img src="https://img.shields.io/badge/-SAPUI5-000000?style=for-the-badge&logo=sap&labelColor=000000" alt="SAPUI5">
+  <img src="https://img.shields.io/badge/-Cloud%20Foundry-000000?style=for-the-badge&logo=cloudfoundry&labelColor=000000" alt="Cloud Foundry">
+</div>
 
+<div align="center">
+  <h2>Tools & Technologies</h2>
+  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&labelColor=000000" alt="Git">
+  <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&labelColor=000000" alt="Docker">
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&labelColor=000000" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&labelColor=000000" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=jest&labelColor=000000" alt="Jest">
+  <img src="https://img.shields.io/badge/-SAP-000000?style=for-the-badge&logo=sap&labelColor=000000" alt="SAP">
+</div>
 
+<div align="center">
+  <h2>Currently Studying</h2>
+  <img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws&labelColor=000000" alt="AWS">
+  <img src="https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes&labelColor=000000" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&labelColor=000000" alt="Flutter">
+</div>
+
+<div align="center">
+  <h2>Connect with me</h2>
+  <a href="mailto:luanmateusdev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/luan-mateus/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuannMateus}/count.svg" /></p>
+  <br>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
