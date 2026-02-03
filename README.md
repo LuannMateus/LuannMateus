@@ -3,11 +3,6 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Luan+Mateus;I'm+a+Software+Engineer;Welcome+to+my+GitHub+profile!&font=Fira%20Code&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0;">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LuannMateus&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=0d1117&ring_color=00bfff&animation=true" alt="Luan Mateus github stats" /> 
-    <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannMateus&layout=compact&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0d1117" />
-  </div>
-
 </div>
 
 <div align="center">
